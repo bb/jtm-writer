@@ -1,4 +1,3 @@
-syntax: glob
 target
 META-INF/MANIFEST.MF
 bin
